@@ -37,7 +37,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Job Listings'),
+        title: const Text('Post Titles'),
         backgroundColor: Color.fromARGB(255, 90, 144, 196),
         leading: IconButton(
           icon: const Icon(Icons.arrow_back),
